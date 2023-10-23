@@ -8,3 +8,4 @@ This is the collection of all the projects I have built throughout my undergrad 
 5. [Store Management System](https://github.com/hasanccr92/store_management)
 6. [National Anthem and their Correlation with Global Indices](https://www.kaggle.com/code/hasanccr92/national-anthems-correlation-with-global-indices?scriptVersionId=128347895) with [presentation video](https://youtu.be/4SA27ewS18E)
 7. [Car Game Project with PyOpenGL](https://github.com/hasanccr92/CSE423-Project_CarGame/tree/main)
+8. [Personal Website](https://hasanccr92.github.io/)
